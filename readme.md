@@ -70,6 +70,6 @@ $ cd "Путь к распакованному проекту"
 Далее нужно будет передать apk-файл любым способом на Android-устройство и установить.
     
 #### Ссылки
-[1] Репозиторий проекта - https://github.com/NikitaVedernikov/WeatherApp
+[1] Репозиторий проекта - https://github.com/NikitaVedernikov/WeatherApp/tree/master
 
 [2] Архиватор WinRAR - https://www.win-rar.com/start.html?&L=4
