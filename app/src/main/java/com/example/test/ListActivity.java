@@ -17,56 +17,11 @@ import java.util.Hashtable;
 import java.util.Map;
 
 public class ListActivity extends AppCompatActivity {
-
-    DatabaseAdapter adapter;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_list);
 
-        adapter = new DatabaseAdapter(this);
-
-        Bundle arguments = getIntent().getExtras();
-        if (arguments != null)
-        {
-            int id = arguments.getInt("id");
-            String city = arguments.getString("city");
-            adapter.open();
-            adapter.insert(id, city);
-            adapter.close();
-        }
-
-
-        adapter.open();
-
-        Map<Integer, TextView> views = new HashMap<>();
-
-        views.put(0, findViewById(R.id.cityView1));
-        views.put(1, findViewById(R.id.cityView2));
-        views.put(2, findViewById(R.id.cityView3));
-        views.put(3, findViewById(R.id.cityView4));
-        views.put(4, findViewById(R.id.cityView5));
-
-
-        Map<Integer, String> cities = new HashMap<Integer, String>();
-        for (int i = 0; i < 5; i++) {
-            City got = adapter.getCity(i);
-            if (got != null){
-                cities.put(i, got.city);
-            }
-            else {
-                cities.put(i, "Добавить +");
-            }
-        }
-
-        adapter.close();
-
-
-        for (int i = 0; i < 5; i++)
-        {
-            views.get(i).setText(cities.get(i));
-        }
 
     }
 

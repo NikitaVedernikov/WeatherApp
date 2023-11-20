@@ -16,8 +16,6 @@ import com.example.test.data.Cities;
 
 public class StartActivity extends AppCompatActivity {
 
-    DatabaseHelper databaseHelper;
-    SQLiteDatabase db;
     Cursor cityCursor;
 
     public static final String APP_PREFERENCES = "mysettings";
@@ -34,9 +32,6 @@ public class StartActivity extends AppCompatActivity {
 
         mSettings = getSharedPreferences(APP_PREFERENCES, Context.MODE_PRIVATE);
 
-
-        // database init
-        databaseHelper = new DatabaseHelper(getApplicationContext());
 
         // Spinner items
         Spinner spinner = findViewById(R.id.spinner5);
@@ -61,23 +56,11 @@ public class StartActivity extends AppCompatActivity {
             return;
         }
 
-        db = databaseHelper.getWritableDatabase();
-        db.execSQL("INSERT OR IGNORE INTO cities VALUES (0, '" + selected_city + "');");
-
         SharedPreferences.Editor editor = mSettings.edit();
         editor.putBoolean(APP_PREFERENCES_IS_NEW, false);
         editor.apply();
 
         Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);
-
-
-    }
-    @Override
-    public void onDestroy(){
-        super.onDestroy();
-
-        db.close();
-        cityCursor.close();
     }
 }
