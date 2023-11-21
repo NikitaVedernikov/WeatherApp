@@ -24,15 +24,21 @@ id linearLayout
 id linearLayout1
 id linearLayout2
 <<<<<<< HEAD
+<<<<<<< HEAD
 id map
 id spinner5
 id spinner6
 id tempView
 =======
+=======
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
 id spinner5
 id spinner6
 id tempView
 id textView
+<<<<<<< HEAD
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
+=======
 >>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
 id textView1
 id textView2

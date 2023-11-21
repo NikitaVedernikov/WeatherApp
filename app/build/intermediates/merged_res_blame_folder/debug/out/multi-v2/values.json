@@ -149,6 +149,7 @@
                 },
                 {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "source": "E:\\Users\\User1\\Desktop\\WeatherApp\\app\\src\\main\\res\\values\\themes.xml",
                     "from": {
                         "startLines": "2",
@@ -168,6 +169,8 @@
                     }
                 },
                 {
+=======
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
 =======
 >>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
                     "source": "C:\\Users\\User1\\.gradle\\caches\\transforms-3\\475d81c8b276df7cbb986b43402d2d58\\transformed\\viewpager2-1.0.0\\res\\values\\values.xml",
@@ -357,7 +360,10 @@
                 },
                 {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
                     "source": "E:\\Users\\User1\\Desktop\\WeatherApp3\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "1,2,3",
@@ -375,6 +381,9 @@
                     }
                 },
                 {
+<<<<<<< HEAD
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
+=======
 >>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
                     "source": "C:\\Users\\User1\\.gradle\\caches\\transforms-3\\2fabce081c20a9a564d848957733718e\\transformed\\coordinatorlayout-1.1.0\\res\\values\\values.xml",
                     "from": {
@@ -432,7 +441,10 @@
                 },
                 {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
                     "source": "E:\\Users\\User1\\Desktop\\WeatherApp3\\app\\src\\main\\res\\values\\themes.xml",
                     "from": {
                         "startLines": "2",
@@ -452,6 +464,9 @@
                     }
                 },
                 {
+<<<<<<< HEAD
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
+=======
 >>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
                     "source": "C:\\Users\\User1\\.gradle\\caches\\transforms-3\\517fa07248349ed42c26e3fccc30cdf9\\transformed\\core-1.9.0\\res\\values\\values.xml",
                     "from": {
@@ -509,6 +524,7 @@
                 },
                 {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "source": "E:\\Users\\User1\\Desktop\\WeatherApp\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "1,2,3",
@@ -526,6 +542,8 @@
                     }
                 },
                 {
+=======
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
 =======
 >>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
                     "source": "C:\\Users\\User1\\.gradle\\caches\\transforms-3\\d20af9f87245893df80e26a9037f85ba\\transformed\\navigation-fragment-2.7.5\\res\\values\\values.xml",

@@ -50,6 +50,10 @@
             android:name="com.example.test.MainActivity"
             android:exported="false" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+        <activity android:name="com.example.test.MapsActivity" />
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
 =======
         <activity android:name="com.example.test.MapsActivity" />
 >>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
@@ -63,6 +67,7 @@
             </intent-filter>
         </activity>
 <<<<<<< HEAD
+<<<<<<< HEAD
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
@@ -72,6 +77,8 @@
             android:name="com.example.test.MapsActivity"
             android:exported="false"
             android:label="@string/title_activity_maps" />
+=======
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
 =======
 >>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
         <!-- Needs to be explicitly declared on P+ -->

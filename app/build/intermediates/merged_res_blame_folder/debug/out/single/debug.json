@@ -1,6 +1,7 @@
 [
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "merged": "com.example.test.app-merged_res-46:/mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "com.example.test.app-main-48:/mipmap-xhdpi/ic_launcher_round.webp"
     },
@@ -36,6 +37,8 @@
         "merged": "com.example.test.app-merged_res-46:/mipmap-anydpi-v33_ic_launcher.xml.flat",
         "source": "com.example.test.app-main-48:/mipmap-anydpi-v33/ic_launcher.xml"
 =======
+=======
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
         "merged": "C:\\Users\\User1\\.gradle\\daemon\\8.0\\com.example.test.app-merged_res-46:\\xml_backup_rules.xml.flat",
         "source": "C:\\Users\\User1\\.gradle\\daemon\\8.0\\com.example.test.app-main-48:\\xml\\backup_rules.xml"
     },
@@ -94,6 +97,9 @@
     {
         "merged": "C:\\Users\\User1\\.gradle\\daemon\\8.0\\com.example.test.app-merged_res-46:\\layout_activity_add.xml.flat",
         "source": "C:\\Users\\User1\\.gradle\\daemon\\8.0\\com.example.test.app-main-48:\\layout\\activity_add.xml"
+<<<<<<< HEAD
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
+=======
 >>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
     },
     {
@@ -101,6 +107,7 @@
         "source": "com.example.test.app-main-48:/layout/activity_maps.xml"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
         "merged": "com.example.test.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "com.example.test.app-main-48:/mipmap-xxxhdpi/ic_launcher_round.webp"
@@ -153,6 +160,8 @@
         "merged": "com.example.test.app-merged_res-46:/layout_activity_add.xml.flat",
         "source": "com.example.test.app-main-48:/layout/activity_add.xml"
 =======
+=======
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
         "merged": "C:\\Users\\User1\\.gradle\\daemon\\8.0\\com.example.test.app-merged_res-46:\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\Users\\User1\\.gradle\\daemon\\8.0\\com.example.test.app-main-48:\\drawable\\ic_launcher_background.xml"
     },
@@ -183,6 +192,9 @@
     {
         "merged": "C:\\Users\\User1\\.gradle\\daemon\\8.0\\com.example.test.app-merged_res-46:\\xml_data_extraction_rules.xml.flat",
         "source": "C:\\Users\\User1\\.gradle\\daemon\\8.0\\com.example.test.app-main-48:\\xml\\data_extraction_rules.xml"
+<<<<<<< HEAD
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
+=======
 >>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
     }
 ]

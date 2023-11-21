@@ -45,6 +45,7 @@
 30
 31    <application
 <<<<<<< HEAD
+<<<<<<< HEAD
 31-->E:\Users\User1\Desktop\WeatherApp\app\src\main\AndroidManifest.xml:5:5-41:19
 32        android:allowBackup="true"
 32-->E:\Users\User1\Desktop\WeatherApp\app\src\main\AndroidManifest.xml:6:9-35
@@ -230,6 +231,8 @@
 130
 131</manifest>
 =======
+=======
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
 31-->E:\Users\User1\Desktop\WeatherApp3\app\src\main\AndroidManifest.xml:5:5-33:19
 32        android:allowBackup="true"
 32-->E:\Users\User1\Desktop\WeatherApp3\app\src\main\AndroidManifest.xml:6:9-35
@@ -401,4 +404,7 @@
 121    </application>
 122
 123</manifest>
+<<<<<<< HEAD
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
+=======
 >>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d

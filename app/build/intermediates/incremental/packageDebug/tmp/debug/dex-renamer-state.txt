@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Mon Nov 20 02:29:39 KRAT 2023
 base.0=E\:\\Users\\User1\\Desktop\\WeatherApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=E\:\\Users\\User1\\Desktop\\WeatherApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
@@ -7,6 +8,8 @@ base.3=E\:\\Users\\User1\\Desktop\\WeatherApp\\app\\build\\intermediates\\dex\\d
 base.4=E\:\\Users\\User1\\Desktop\\WeatherApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
 base.5=E\:\\Users\\User1\\Desktop\\WeatherApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
 =======
+=======
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
 #Mon Nov 20 11:45:35 KRAT 2023
 base.0=E\:\\Users\\User1\\Desktop\\WeatherApp3\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=E\:\\Users\\User1\\Desktop\\WeatherApp3\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
@@ -14,6 +17,9 @@ base.2=E\:\\Users\\User1\\Desktop\\WeatherApp3\\app\\build\\intermediates\\dex\\
 base.3=E\:\\Users\\User1\\Desktop\\WeatherApp3\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
 base.4=E\:\\Users\\User1\\Desktop\\WeatherApp3\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
 base.5=E\:\\Users\\User1\\Desktop\\WeatherApp3\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+<<<<<<< HEAD
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
+=======
 >>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
 path.0=classes.dex
 path.1=0/classes.dex

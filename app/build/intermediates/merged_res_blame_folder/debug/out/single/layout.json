@@ -1,6 +1,7 @@
 [
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "merged": "com.example.test.app-mergeDebugResources-45:/layout/activity_start.xml",
         "source": "com.example.test.app-main-48:/layout/activity_start.xml"
     },
@@ -15,6 +16,10 @@
         "merged": "C:\\Users\\User1\\.gradle\\daemon\\8.0\\com.example.test.app-mergeDebugResources-45:\\layout\\activity_list.xml",
         "source": "C:\\Users\\User1\\.gradle\\daemon\\8.0\\com.example.test.app-main-48:\\layout\\activity_list.xml"
 >>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
+=======
+        "merged": "C:\\Users\\User1\\.gradle\\daemon\\8.0\\com.example.test.app-mergeDebugResources-45:\\layout\\activity_list.xml",
+        "source": "C:\\Users\\User1\\.gradle\\daemon\\8.0\\com.example.test.app-main-48:\\layout\\activity_list.xml"
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
     },
     {
         "merged": "com.example.test.app-mergeDebugResources-45:/layout/activity_maps.xml",
@@ -22,9 +27,12 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "merged": "com.example.test.app-mergeDebugResources-45:/layout/activity_main.xml",
         "source": "com.example.test.app-main-48:/layout/activity_main.xml"
 =======
+=======
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
         "merged": "C:\\Users\\User1\\.gradle\\daemon\\8.0\\com.example.test.app-mergeDebugResources-45:\\layout\\activity_main.xml",
         "source": "C:\\Users\\User1\\.gradle\\daemon\\8.0\\com.example.test.app-main-48:\\layout\\activity_main.xml"
     },
@@ -39,6 +47,9 @@
     {
         "merged": "C:\\Users\\User1\\.gradle\\daemon\\8.0\\com.example.test.app-mergeDebugResources-45:\\layout\\activity_add.xml",
         "source": "C:\\Users\\User1\\.gradle\\daemon\\8.0\\com.example.test.app-main-48:\\layout\\activity_add.xml"
+<<<<<<< HEAD
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
+=======
 >>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
     }
 ]

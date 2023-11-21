@@ -5,6 +5,7 @@
             "map": [
                 {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "source": "E:\\Users\\User1\\Desktop\\WeatherApp\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
@@ -26,6 +27,8 @@
                 {
 =======
 >>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
+=======
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
                     "source": "C:\\Users\\User1\\.gradle\\caches\\transforms-3\\0a32263f3f1598650e729bbc74d49922\\transformed\\material-1.10.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34",
@@ -44,7 +47,10 @@
                 },
                 {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
                     "source": "E:\\Users\\User1\\Desktop\\WeatherApp3\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
@@ -64,6 +70,9 @@
                     }
                 },
                 {
+<<<<<<< HEAD
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
+=======
 >>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
                     "source": "C:\\Users\\User1\\.gradle\\caches\\transforms-3\\642474c4c3f011348c23896132bfb19a\\transformed\\appcompat-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {

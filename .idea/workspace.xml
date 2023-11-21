@@ -10,8 +10,11 @@
   </component>
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="9dff137a-15c5-45c0-a4d7-a30afc2c7fa7" name="Changes" comment="" />
 =======
+=======
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
     <list default="true" id="9dff137a-15c5-45c0-a4d7-a30afc2c7fa7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/test/Api.java" beforeDir="false" />
@@ -28,6 +31,9 @@
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/test/data/Wind.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_maps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_maps.xml" afterDir="false" />
     </list>
+<<<<<<< HEAD
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
+=======
 >>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +41,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\User1\.android\avd\Pixel_7_API_30.avd]" />
+=======
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\User1\.android\avd\Pixel_4_XL_API_34.avd]" />
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
 =======
   <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\User1\.android\avd\Pixel_4_XL_API_34.avd]" />
 >>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
@@ -52,6 +62,7 @@
         </task>
         <projects_view>
           <tree_state>
+<<<<<<< HEAD
 <<<<<<< HEAD
             <expand>
               <path>
@@ -77,6 +88,9 @@
                 <item name="other" type="c8890929:TasksNode$1" />
               </path>
             </expand>
+=======
+            <expand />
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
 =======
             <expand />
 >>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
@@ -123,7 +137,11 @@
     "WebServerToolWindowFactoryState": "false",
     "cidr.known.project.marker": "true",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "last_opened_file_path": "E:/Users/User1/Desktop/WeatherApp3",
+=======
+    "last_opened_file_path": "E:/Users/User1/Desktop/WeatherApp2",
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
 =======
     "last_opened_file_path": "E:/Users/User1/Desktop/WeatherApp2",
 >>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d

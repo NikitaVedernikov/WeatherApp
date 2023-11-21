@@ -3417,7 +3417,10 @@ int id locale 0x7f080109
 int id ltr 0x7f08010a
 int id m3_side_sheet 0x7f08010b
 <<<<<<< HEAD
+<<<<<<< HEAD
 int id map 0x7f08010c
+=======
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
 =======
 >>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
 int id marquee 0x7f08010d
@@ -3638,6 +3641,10 @@ int id textSpacerNoTitle 0x7f0801e3
 int id textStart 0x7f0801e4
 int id textTop 0x7f0801e5
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+int id textView 0x7f08021c
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
 =======
 int id textView 0x7f08021c
 >>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d

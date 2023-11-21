@@ -7,6 +7,10 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.FrameLayout;
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+import android.widget.TextView;
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
 =======
 import android.widget.TextView;
 >>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
@@ -27,10 +31,13 @@ public final class ActivityMapsBinding implements ViewBinding {
   public final Button backButton;
 
 <<<<<<< HEAD
+<<<<<<< HEAD
   private ActivityMapsBinding(@NonNull FrameLayout rootView, @NonNull Button backButton) {
     this.rootView = rootView;
     this.backButton = backButton;
 =======
+=======
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
   @NonNull
   public final TextView textView;
 
@@ -39,6 +46,9 @@ public final class ActivityMapsBinding implements ViewBinding {
     this.rootView = rootView;
     this.backButton = backButton;
     this.textView = textView;
+<<<<<<< HEAD
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
+=======
 >>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
   }
 
@@ -76,8 +86,11 @@ public final class ActivityMapsBinding implements ViewBinding {
       }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
       return new ActivityMapsBinding((FrameLayout) rootView, backButton);
 =======
+=======
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
       id = R.id.textView;
       TextView textView = ViewBindings.findChildViewById(rootView, id);
       if (textView == null) {
@@ -85,6 +98,9 @@ public final class ActivityMapsBinding implements ViewBinding {
       }
 
       return new ActivityMapsBinding((FrameLayout) rootView, backButton, textView);
+<<<<<<< HEAD
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
+=======
 >>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
     }
     String missingId = rootView.getResources().getResourceName(id);

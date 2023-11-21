@@ -41,6 +41,7 @@ com.example.test.app-play-services-base-18.0.1-39 C:\Users\User1\.gradle\caches\
 com.example.test.app-lifecycle-viewmodel-savedstate-2.6.2-40 C:\Users\User1\.gradle\caches\transforms-3\ec2a67553f20574b932f03eb6a30218c\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
 com.example.test.app-constraintlayout-2.1.4-41 C:\Users\User1\.gradle\caches\transforms-3\fc6ab5fb8b30031d74dd0e23fbb73c37\transformed\constraintlayout-2.1.4\res
 <<<<<<< HEAD
+<<<<<<< HEAD
 com.example.test.app-pngs-42 E:\Users\User1\Desktop\WeatherApp\app\build\generated\res\pngs\debug
 com.example.test.app-resValues-43 E:\Users\User1\Desktop\WeatherApp\app\build\generated\res\resValues\debug
 com.example.test.app-packageDebugResources-44 E:\Users\User1\Desktop\WeatherApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
@@ -49,6 +50,8 @@ com.example.test.app-merged_res-46 E:\Users\User1\Desktop\WeatherApp\app\build\i
 com.example.test.app-debug-47 E:\Users\User1\Desktop\WeatherApp\app\src\debug\res
 com.example.test.app-main-48 E:\Users\User1\Desktop\WeatherApp\app\src\main\res
 =======
+=======
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
 com.example.test.app-pngs-42 E:\Users\User1\Desktop\WeatherApp3\app\build\generated\res\pngs\debug
 com.example.test.app-resValues-43 E:\Users\User1\Desktop\WeatherApp3\app\build\generated\res\resValues\debug
 com.example.test.app-packageDebugResources-44 E:\Users\User1\Desktop\WeatherApp3\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
@@ -56,4 +59,7 @@ com.example.test.app-packageDebugResources-45 E:\Users\User1\Desktop\WeatherApp3
 com.example.test.app-merged_res-46 E:\Users\User1\Desktop\WeatherApp3\app\build\intermediates\merged_res\debug
 com.example.test.app-debug-47 E:\Users\User1\Desktop\WeatherApp3\app\src\debug\res
 com.example.test.app-main-48 E:\Users\User1\Desktop\WeatherApp3\app\src\main\res
+<<<<<<< HEAD
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
+=======
 >>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d

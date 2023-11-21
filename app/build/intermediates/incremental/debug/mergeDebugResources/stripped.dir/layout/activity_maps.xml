@@ -4,6 +4,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
 <<<<<<< HEAD
+<<<<<<< HEAD
     tools:context=".MapsActivity"
     android:layout_height="match_parent"
     android:layout_width="match_parent">
@@ -17,6 +18,8 @@
     tools:context=".MapsActivity" />
 
 =======
+=======
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
     android:layout_height="match_parent"
     android:layout_width="match_parent"
     tools:context=".MapsActivity">
@@ -31,6 +34,9 @@
         android:textColor="#36AAA3"
         android:textSize="40sp"
         android:textStyle="bold" />
+<<<<<<< HEAD
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
+=======
 >>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
     <Button
         android:id="@+id/back_button"
