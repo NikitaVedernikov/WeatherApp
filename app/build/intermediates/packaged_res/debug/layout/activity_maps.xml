@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+<<<<<<< HEAD
+    tools:context=".MapsActivity"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/map"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MapsActivity" />
+
+=======
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    tools:context=".MapsActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:fontFamily="casual"
+        android:text="Пока что пусто"
+        android:textAlignment="center"
+        android:textColor="#36AAA3"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+>>>>>>> dd131d39d47d8c9fae2b9f599df1b27f0a3e0a3d
+    <Button
+        android:id="@+id/back_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:text="Назад"
+        android:onClick="backGo"
+        android:background="@drawable/rectangle"
+        />
+
+</FrameLayout>
